@@ -27,7 +27,7 @@ Get the latest build of the game from the official links below:
 
 ## Third-Party Credits
 This project uses awesome assets from the open-source community alongside original creations:
-- **3D Models / Textures:** Custom original assets made by Petar, with additional community assets from [Name of creator or website, e.g., Kenney.nl].
+- **3D Models / Textures:** Custom original assets made by Petar, with additional community assets from [Name of creator or website, e.g., Kenney.nl], some of the models and textures are made by ([@P374R](https://github.com/P374R))
 - **Audio / Sound Effects:** [Name of creator or website]
 - **Fonts:** [Name of font creator]
 
