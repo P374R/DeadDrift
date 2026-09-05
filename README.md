@@ -32,5 +32,9 @@ This project uses awesome assets from the open-source community:
 
 Huge thanks to the creators for supporting indie game development!
 
+## License
+This game is protected under a custom Proprietary License. You can play it for free, but modifying, reselling, or copying the assets is strictly prohibited. See the [LICENSE](LICENSE) file for more details.
+
+
 ---
 *Disclaimer: This game is currently under active solo development. New tracks, cars, and online matchmaking stability updates are rolling out frequently!*
