@@ -1,11 +1,11 @@
 # DeadDrift
 
-**DeadDrift** is a high-octane, action-packed arcade racing game built using the **Godot Engine**. Master the art of drifting, hit high speeds, and dominate the tracks.
+**DeadDrift** is a high-octane, action-packed arcade racing game built using the **Unity Engine**. Master the art of drifting, hit high speeds, and dominate the tracks.
 
 This is a **100% Solo Project** – designed, coded, and developed entirely by me.
 
 ## Game Features
-- **Godot Physics & Control:** Smooth, responsive arcade racing and physics built directly within Godot.
+- **Unity Physics & Control:** Smooth, responsive arcade racing and physics built directly within Unity.
 - **Intense Drifting Mechanics:** Rewarding gameplay mechanics that challenge your cornering and drift timing.
 - **Dedicated Server Support:** Integrated backend systems designed to handle game rooms and server connections.
 
@@ -21,7 +21,7 @@ Get the latest build of the game from the official links below:
 2. Launch the `.exe` file.
 
 ## Tech Stack & Tools
-- **Game Engine:** Godot Engine 
+- **Game Engine:** Unity Engine 
 - **Programming Languages:** GDScript (Game Logic) & JavaScript / Node.js (Dedicated Server Integration)
 - **Developer:** Solo developed by **Petar** ([@P374R](https://github.com/P374R))
 
