@@ -5,7 +5,7 @@
 This is a **100% Solo Project** – designed, coded, and developed entirely by me.
 
 ## Game Features
-- **Unity Physics & Control:** Smooth, responsive arcade racing and physics built directly within Unity.
+- **Godot Physics & Control:** Smooth, responsive arcade racing and physics built directly within Godot.
 - **Intense Drifting Mechanics:** Rewarding gameplay mechanics that challenge your cornering and drift timing.
 - **Dedicated Server Support:** Integrated backend systems designed to handle game rooms and server connections.
 
@@ -26,8 +26,8 @@ Get the latest build of the game from the official links below:
 - **Developer:** Solo developed by **Petar** ([@P374R](https://github.com/P374R))
 
 ## Third-Party Credits
-This project uses awesome assets from the open-source community alongside original creations:
-- **3D Models / Textures:** Custom original assets made by Petar, with additional community assets from [Name of creator or website, e.g., Kenney.nl], some of the models and textures are made by **Petar** ([@P374R](https://github.com/P374R))
+This project uses awesome assets from the open-source commGodot alongside original creations:
+- **3D Models / Textures:** Custom original assets made by Petar, with additional commGodot assets from [Name of creator or website, e.g., Kenney.nl], some of the models and textures are made by **Petar** ([@P374R](https://github.com/P374R))
 - **Audio / Sound Effects:** [Name of creator or website]
 - **Fonts:** [Name of font creator]
 
